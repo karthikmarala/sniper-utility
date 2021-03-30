@@ -1,0 +1,10 @@
+com/hotstar/sniper/Body.java
+ com.hotstar.sniper.Body
+com/hotstar/sniper/SniperPojo.java
+ com.hotstar.sniper.SniperPojo
+com/hotstar/sniper/Results.java
+ com.hotstar.sniper.Results
+com/hotstar/sniper/Items.java
+ com.hotstar.sniper.Items
+com/hotstar/sniper/Utils.java
+ com.hotstar.sniper.Utils
